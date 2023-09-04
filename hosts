@@ -5,6 +5,8 @@
 
 
 # Block specific Domains
+0.0.0.0 www.welt.de
+0.0.0.0 welt.de
 0.0.0.0 www.spiegel.de
 0.0.0.0 spiegel.de
 0.0.0.0 www.bild.de
